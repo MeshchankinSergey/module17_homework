@@ -1,0 +1,11 @@
+.container {
+	display: flex;
+}
+
+.item {
+margin-left: 50px;
+}
+
+.heading {
+    text-align: center;
+}
