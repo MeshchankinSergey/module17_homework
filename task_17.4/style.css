@@ -1,0 +1,28 @@
+.btn {
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    box-shadow: none;
+    cursor: pointer;
+    
+    display: flex;
+    margin: 5px 10px;
+    padding: 10px 15px;
+    border-radius: 1px;
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: white;
+    background: #228d7f;
+    transition: 0.3s;
+  }
+  
+  .btn:hover {
+    transform: scale(1.05);
+  }
+
+  p {
+    font-size: 20px;
+  }
